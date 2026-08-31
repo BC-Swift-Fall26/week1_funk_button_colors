@@ -22,7 +22,7 @@ struct ContentView: View {
                 .foregroundStyle(.orange)
             
             Button("Click Me!") {
-                message = "Swift is Awesome!"
+                message = "Swift is Legendary!"
             }
         }
         .padding()
